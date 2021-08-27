@@ -2,7 +2,7 @@
 - 👀 I’m interested in computaional physics.
 - 🌱 I’m currently learning it.
 - 💞️ I’m looking to collaborate with  you.
-- 📫 You can reach me via Email-pritampradyot2000@gmail.com
+- 📫 You can reach me via  pritampradyot2000@gmail.com
 
 <!---
 pradyotpsahoo/pradyotpsahoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

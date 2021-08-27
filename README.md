@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @pradyotpsahoo
-- 👀 I’m interested in computaional physics.
-- 🌱 I’m currently learning it.
-- 💞️ I’m looking to collaborate with  you.
 - 📫 You can reach me via  pritampradyot2000@gmail.com
 
 <!---
